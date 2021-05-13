@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+
+fieldset {
+	margin-right: 30px; 
+	border : 1px solid silver;
+	padding: 40px;
+	border-radius: 4px;
+	border: 1px solid silver;
+}
+
+.heading {
+	margin-left: 100px;
+}
+
+.desc-view {
+	word-break: break-all;
+}
+
+.my-custom-scrollbar {
+	position: relative;
+	height: 500px;
+	width: 900px;
+	overflow-x: hidden;
+	overflow-y: scroll;
+}
